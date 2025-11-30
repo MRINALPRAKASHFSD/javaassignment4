@@ -1,6 +1,6 @@
-# Lab Assignment 2 – Student Management System (Java)
+# Assignment 4 – Student Management System (Java)
 
-Repository: **Assignment_2_2401010182**  
+Repository: **Assignment_4_2401010182**  
 Name: **Mrinal Prakash**  
 Roll No: **2401010182**  
 Course: **B.Tech CSE (Semester III)**  
